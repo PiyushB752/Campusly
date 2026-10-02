@@ -308,3 +308,7 @@ Potential improvements include:
 ## License
 
 This project is intended for educational and portfolio purposes.
+
+## Deployment
+
+link - https://campusly-peach.vercel.app/
